@@ -1,0 +1,16 @@
+expense_id,expense_date,project_id,expense_category,amount_usd
+EX001,,P101,Cloud hosting,420
+EX006,,P101,Software subscription,450
+EX011,,P101,Cloud hosting,470
+EX002,,P102,Software subscription,250
+EX007,,P102,Cloud hosting,270
+EX012,,P102,Software subscription,290
+EX003,,P103,Cloud hosting,310
+EX008,,P103,Software subscription,330
+EX013,,P103,Cloud hosting,350
+EX004,,P104,Software subscription,480
+EX009,,P104,Cloud hosting,510
+EX014,,P104,Software subscription,530
+EX005,,P105,Cloud hosting,200
+EX010,,P105,Software subscription,220
+EX015,,P105,Cloud hosting,240
