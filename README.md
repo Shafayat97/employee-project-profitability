@@ -20,7 +20,7 @@ SQL (SQLite) · Excel · Python · Power BI
   unknown employee/project, pending approval) and 1 expense for an unknown project
 
 ## Key findings
-- Bricly is the most profitable project ($27.5k profit over 3 months)
+- Briclab is the most profitable project ($27.5k profit over 3 months)
 - Amina Rahman and Tanvir Hasan work 120–137% of standard hours,
   while some colleagues are at 56–62%
 
