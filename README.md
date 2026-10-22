@@ -1,6 +1,5 @@
-# employee-project-profitability
-Project P&amp;L and employee utilization analysis using SQL, Excel, Python and Power BI
 # Employee & Project Profitability Analysis
+Project P&amp;L and employee utilization analysis using SQL, Excel, Python and Power BI
 
 Analysis of 5 software projects, 8 employees and 3 months (Jul–Sep 2026)
 of timesheet and expense data.
