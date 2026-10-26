@@ -1,0 +1,9 @@
+employee_id,employee_name,department,monthly_salary_usd,hourly_rate
+E001,Amina Rahman,Engineering,1800,11.25
+E002,Tanvir Hasan,Engineering,1500,9.375
+E003,Nadia Islam,Design,1300,8.125
+E004,Rakib Ahmed,Engineering,1600,10.0
+E005,Farhana Akter,QA,1200,7.5
+E006,Sajid Karim,Engineering,1700,10.625
+E007,Mehedi Chowdhury,Project Management,1900,11.875
+E008,Jannat Sultana,QA,1250,7.8125
