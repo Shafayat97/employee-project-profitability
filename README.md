@@ -24,5 +24,9 @@ SQL (SQLite) · Excel · Python · Power BI
   while some colleagues are at 56–62%
 
 ## Repository structure
-- `data/` – raw and cleaned datasets
-- `sql/` – cleaning and analysis queries
+- `Data/` – raw and cleaned datasets
+- `Sql/` – data cleaning and analysis queries (SQLite)
+- `Excel/` – P&L, PivotTable utilization analysis and charts
+- `Python/` – automated cleaning and analysis script, results and charts
+- `PowerBI/` – interactive dashboard (.pbix), PDF export and screenshot
+- `Report/` – management report with findings and recommendations
