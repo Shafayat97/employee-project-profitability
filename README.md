@@ -30,3 +30,6 @@ SQL (SQLite) · Excel · Python · Power BI
 - `Python/` – automated cleaning and analysis script, results and charts
 - `PowerBI/` – interactive dashboard (.pbix), PDF export and screenshot
 - `Report/` – management report with findings and recommendations
+Author
+
+Md. Shafayat Hossain LinkedIn https://www.linkedin.com/in/shafayat-hossain-305aa5173/
